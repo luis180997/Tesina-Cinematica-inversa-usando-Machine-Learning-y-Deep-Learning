@@ -1,0 +1,1 @@
+# Tesina-Cinematica-inversa-usando-Machine-Learning-y-Deep-Learning
